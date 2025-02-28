@@ -28,7 +28,7 @@ Continuous monitoring ensures website relevance and user engagement.
 # Installation
 To set up and run the project, follow these steps:
 **Clone the repository**
-git clone https://github.com/yourusername/Search-Queries-Anomaly-Detection.git
+git clone https://github.com/saloninarang27/Search-Queries-Anomaly-Detection.git
 cd Search-Queries-Anomaly-Detection
 **Install dependencies**
 pip install -r requirements.txt
